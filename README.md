@@ -5,3 +5,6 @@
 - 📫 Voce pode me encontrar no linkdin --  @Ellysonalves --
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiEllysonAlves=anuraghazra&show_icons=true&theme=radical)
+
+
