@@ -1,7 +1,6 @@
 <h1> OI 👋 , Eu sou Ellyson <h1>
 
- 
-- 👋 Oi , eu sou @EllysonAlves
+
 - 👀 Eu tenho interesse e busco cada dia mais o aprendizado de novas linguagens de programação
 - 🌱 Atualmente sou estudante do curso de desenvolvimento de sistemas do segundo modulo , onde ja tive contato com o Java , Html , css , javascript ... 
 - 💞️ Busco sempre colaborar com oque prescizam e busco sempre aprendizados novos
