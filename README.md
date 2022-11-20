@@ -4,7 +4,7 @@
 - 👀 Eu tenho interesse e busco cada dia mais o aprendizado de novas linguagens de programação
 - 🌱 Atualmente sou estudante do curso de desenvolvimento de sistemas do segundo modulo , onde ja tive contato com o Java , Html , css , javascript ... 
 - 💞️ Busco sempre colaborar com oque prescizam e busco sempre aprendizados novos
-- 📫 Voce pode me encontrar no linkdin -- ([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/ellyson-alves-816679203/)) --
+- 📫 Voce pode me encontrar no linkdin -- [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/ellyson-alves-816679203/) --
 
   
 # 🚀💻 Tecnologias e Ferramentas 
