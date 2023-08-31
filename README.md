@@ -2,7 +2,7 @@
 
 
 - 👀 Eu tenho interesse e busco cada dia mais o aprendizado de novas linguagens de programação
-- 🌱 Atualmente sou estudante do curso de desenvolvimento de sistemas do terceiro modulo
+- 🌱 Atualmente sou formado no curso de desenvolvimento de sistemas.
 - 💞️ Busco sempre colaborar com oque prescizam e busco sempre aprendizados novos
 - 📫 Voce pode me encontrar no linkdin -- <a href="https://www.linkedin.com/in/ellyson-alves-816679203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     --
 
