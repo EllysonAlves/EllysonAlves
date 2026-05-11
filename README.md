@@ -1,23 +1,76 @@
-# OI 👋 , Eu sou Ellyson 
+# Olá, eu sou o Ellyson Alves 👋
 
+Desenvolvedor focado em **aplicações web/mobile, automações e integrações**.  
+Tenho trabalhado principalmente com **TypeScript, React, React Native, Expo, Node.js e PHP**, criando soluções práticas para produtos digitais, sistemas internos e operações técnicas.
 
-- 👀 Eu tenho interesse e busco cada dia mais o aprendizado de novas linguagens de programação
-- 🌱 Atualmente sou formado no curso de desenvolvimento de sistemas.
-- 💞️ Busco sempre colaborar com oque prescizam e busco sempre aprendizados novos
-- 📫 Voce pode me encontrar no linkdin -- <a href="https://www.linkedin.com/in/ellyson-alves-816679203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     --
+Atualmente meu foco está em evoluir como **fullstack developer**, explorando arquitetura de software, APIs, automação, infraestrutura e integrações com IA.
 
-  
-# 🚀💻 Tecnologias e Ferramentas 
-  
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  
-  
-# ⚙️ Github Status 
+---
 
-![EllysonAlves](https://github-readme-stats.vercel.app/api?username=EllysonAlves&hide=contribs,prs)
+## 🚀 Sobre mim
 
+- 💻 Desenvolvedor formado em **Desenvolvimento de Sistemas**
+- 🧠 Interesse forte por **backend, frontend, mobile e automação**
+- ⚙️ Experiência com projetos usando **React, React Native, Expo, Node.js, PHP e TypeScript**
+- 🛠️ Gosto de transformar processos repetitivos em sistemas e ferramentas úteis
+- 🌐 Também estudo e atuo com infraestrutura, integrações e operações técnicas
+- 📈 Sempre buscando melhorar código, arquitetura e fluxo de desenvolvimento
 
+---
 
-![Snake animation](https://github.com/EllysonAlves/EllysonAlves/blob/output/github-contribution-grid-snake.svg)
+## 🧰 Tecnologias e ferramentas
 
+<div align="left">
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📌 Áreas de interesse
+
+- Desenvolvimento fullstack
+- Aplicativos mobile com React Native/Expo
+- APIs REST e integrações
+- Automação de processos
+- Infraestrutura e Linux
+- Integrações com IA
+- Sistemas internos e ferramentas para operação
+
+---
+
+## 📊 GitHub Stats
+
+<div align="left">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EllysonAlves&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EllysonAlves&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌎 Onde me encontrar
+
+<a href="https://www.linkedin.com/in/ellyson-alves-816679203/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+---
+
+> Construindo, quebrando, corrigindo e automatizando. Nessa ordem — quase sempre.
