@@ -1,20 +1,22 @@
 # Olá, eu sou o Ellyson Alves 👋
 
-Desenvolvedor focado em **aplicações web/mobile, automações e integrações**.  
-Tenho trabalhado principalmente com **TypeScript, React, React Native, Expo, Node.js e PHP**, criando soluções práticas para produtos digitais, sistemas internos e operações técnicas.
+Desenvolvedor focado em **aplicações web/mobile, automações, integrações e soluções digitais para negócios**.
 
-Atualmente meu foco está em evoluir como **fullstack developer**, explorando arquitetura de software, APIs, automação, infraestrutura e integrações com IA.
+Trabalho principalmente com **TypeScript, React, React Native, Expo, Node.js, PHP e infraestrutura Linux**, criando produtos, sistemas internos e ferramentas que resolvem problemas reais — do app mobile ao backend, da automação ao deploy.
+
+Também estou à frente da **Devotech**, onde desenvolvo soluções sob medida para pequenas empresas: sites, landing pages, sistemas, automações, bots/IA e integrações.
 
 ---
 
 ## 🚀 Sobre mim
 
 - 💻 Desenvolvedor formado em **Desenvolvimento de Sistemas**
-- 🧠 Interesse forte por **backend, frontend, mobile e automação**
-- ⚙️ Experiência com projetos usando **React, React Native, Expo, Node.js, PHP e TypeScript**
-- 🛠️ Gosto de transformar processos repetitivos em sistemas e ferramentas úteis
-- 🌐 Também estudo e atuo com infraestrutura, integrações e operações técnicas
-- 📈 Sempre buscando melhorar código, arquitetura e fluxo de desenvolvimento
+- 🧠 Atuação em **frontend, backend, mobile, automação e integrações**
+- 📱 Experiência com apps usando **React Native + Expo**
+- ⚙️ Construção de APIs, dashboards, sistemas internos e ferramentas operacionais
+- 🛠️ Gosto de transformar processos manuais em software útil
+- 🌐 Interesse forte por infraestrutura, Linux, deploy, automações e IA aplicada
+- 📈 Foco em evoluir como fullstack developer com visão de produto
 
 ---
 
@@ -30,8 +32,8 @@ Atualmente meu foco está em evoluir como **fullstack developer**, explorando ar
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -41,15 +43,27 @@ Atualmente meu foco está em evoluir como **fullstack developer**, explorando ar
 
 ---
 
-## 📌 Áreas de interesse
+## 📌 O que eu desenvolvo
 
-- Desenvolvimento fullstack
-- Aplicativos mobile com React Native/Expo
+- Aplicações web e mobile
 - APIs REST e integrações
-- Automação de processos
-- Infraestrutura e Linux
-- Integrações com IA
-- Sistemas internos e ferramentas para operação
+- Sistemas internos e dashboards
+- Landing pages e sites profissionais
+- Automações de processos
+- Integrações com IA e bots
+- Ferramentas para operação e produtividade
+- Projetos com foco em pequenos negócios e soluções práticas
+
+---
+
+## ⭐ Projetos em destaque
+
+| Projeto | Stack | Descrição |
+|---|---|---|
+| **TiConvida** | TypeScript, React/Vite | Aplicação web para programa de indicações/convites. |
+| **DevStorage** | TypeScript, React/Vite | Sistema de controle de estoque com interface web. |
+| **Alves Racing / FiveM** | Lua, Qbox/FiveM | Servidor e recursos focados em corridas, lobby, ranking e experiência racing. |
+| **Connect Work** | React Native, Expo, TypeScript | App mobile com módulos operacionais, ranking, tutoriais e ordens de serviço. |
 
 ---
 
@@ -69,6 +83,10 @@ Atualmente meu foco está em evoluir como **fullstack developer**, explorando ar
 
 <a href="https://www.linkedin.com/in/ellyson-alves-816679203/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/devo.tech" target="_blank">
+  <img src="https://img.shields.io/badge/Devotech-111827?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 ---
